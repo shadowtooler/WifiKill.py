@@ -15,7 +15,7 @@ print "                               \_/\_/ |_|_| |_|_|\_\_|_|_| ";
 
 print "\033[1;31m     =================================================================";
 print "\033[1;37m      Usage: Python wifikill.py Corresponding number to the target ip";
-print "\033[1;32m                            made by PHANTOM HACKER                 ";
+print "\033[1;32m                            made by Shadow Tooler                 ";
 print "\033[1;31m          ======================================================";
 print "\033[1;37m";
 
